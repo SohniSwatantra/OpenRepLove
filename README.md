@@ -1,2 +1,1 @@
-# OpenRepLove
-“An open-source, agent-powered development platform connected to Claude Code – runs local or remote. Replit/lovable/Bolt/v0-style workflows reimagined.
+# OpenRepLove – Replit-style local AI IDE powered by Claude + AI Agents
